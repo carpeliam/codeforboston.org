@@ -2,7 +2,7 @@
 
 backend:
   name: github
-  branch: carpeliam/codeforboston.org
+  repo: carpeliam/codeforboston.org
 media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
